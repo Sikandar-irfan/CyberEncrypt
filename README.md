@@ -208,25 +208,10 @@ pip install cryptography
 - Ensure the encrypted file isn't corrupted
 - Check for sufficient disk space
 
-#### 🔐 "Forgot Password" or "Password Recovery"
-- **Contact for password recovery**: [![Email](https://img.shields.io/badge/Email-sikandarirfan150162@gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:sikandarirfan150162@gmail.com)
-- Include the encrypted file name and creation date in your email
-- Password recovery may require proof of ownership
-
 #### "Main file not found" errors
 - Ensure your project has a recognizable entry point
 - Manually specify the main file when prompted
 - Check file extensions (.py required)
-
-### Debug Mode
-For debugging encrypted projects:
-```bash
-# Enable verbose output
-python encrypted_project.py -p password --verbose
-
-# Check extracted files location
-python encrypted_project.py -p password --debug
-```
 
 ## 🔍 Security Considerations
 
