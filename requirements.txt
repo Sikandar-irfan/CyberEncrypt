@@ -1,0 +1,57 @@
+# CyberEncrypt Requirements
+# Install with: pip install -r requirements.txt
+#
+# ========================================
+# 📧 NEED HELP WITH PASSWORDS OR SETUP?
+# Contact: sikandarirfan150162@gmail.com
+# ========================================
+
+# Core encryption and security
+cryptography>=3.4.8
+
+# Interactive command-line interface
+questionary>=1.10.0
+
+# Colored terminal output
+colorama>=0.4.4
+
+# Optional dependencies for enhanced functionality
+# Uncomment if needed for your specific use case
+
+# Web framework support
+# flask>=2.0.0
+# django>=3.2.0
+
+# Data science and analysis
+# numpy>=1.21.0
+# pandas>=1.3.0
+# matplotlib>=3.4.0
+
+# Machine learning
+# tensorflow>=2.6.0
+# torch>=1.9.0
+# scikit-learn>=0.24.0
+
+# Computer vision
+# opencv-python>=4.5.0
+
+# Web scraping and automation
+# requests>=2.25.0
+# beautifulsoup4>=4.9.0
+# selenium>=3.141.0
+
+# Database connectivity
+# sqlalchemy>=1.4.0
+# pymongo>=3.12.0
+# psycopg2-binary>=2.9.0
+
+# Development and testing
+# pytest>=6.2.0
+# pytest-cov>=2.12.0
+# black>=21.0.0
+# flake8>=3.9.0
+
+# Packaging and distribution
+# setuptools>=57.0.0
+# wheel>=0.36.0
+# twine>=3.4.0
