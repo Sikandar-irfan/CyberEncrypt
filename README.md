@@ -277,8 +277,8 @@ Contributions are welcome! Please follow these guidelines:
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/cyberencrypt.git
-cd cyberencrypt
+git clone https://github.com/Sikandar-irfan/CyberEncrypt.git
+cd CyberEncrypt
 pip install -r requirements.txt
 python cyber_encrypt.py --help
 ```
